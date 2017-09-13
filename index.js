@@ -25,4 +25,3 @@ function iLoveTheBeatles(n) {
   i++;
 }
 return array
-}
