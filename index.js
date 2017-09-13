@@ -23,5 +23,5 @@ function iLoveTheBeatles(n) {
     n++;
   } while (num < 15);
 
-return bealtes;
+return beatles;
 }
