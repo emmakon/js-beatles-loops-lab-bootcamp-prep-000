@@ -6,6 +6,12 @@ function theBeatlesPlay(musician, instrument) {
   return array
 }
 
-function johnLennonFacts(array) {
-  const facts = [];
-}
+function johnLennonFacts(facts) {
+  const newFacts = [];
+  while {
+    let i = 0;
+    newFacts.push(facts[i] + "!!!");
+    i++;
+    }
+    return newFacts
+  }
